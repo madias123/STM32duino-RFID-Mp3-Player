@@ -122,7 +122,7 @@ void loop() {
        display.setTextSize(3);
   display.setTextColor(WHITE);
   display.setCursor(0, 0);
-  display.print ("fuck");
+  display.print ("fertig.");
  
   display.display_alt();
     }
